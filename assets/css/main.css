@@ -313,7 +313,7 @@ body {
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     }
     .h2_cv {
-      border-bottom: 2px solid #0077cc;
+      border-bottom: 2px solid #5E4AE3;
       padding-bottom: 0.5rem;
     }
     .item {
@@ -324,7 +324,7 @@ body {
     }
     .year {
       font-weight: bold;
-      color: #0077cc;
+      color: #5E4AE3;
     }
     .download {
       text-align: center;
